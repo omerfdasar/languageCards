@@ -34,7 +34,7 @@ SOLUTION
 └── yarn.lock
 ```
 
-## Expected Outcome
+## Outcome
 
 ![Project 003 Snapshot](language-cards.gif)
 
