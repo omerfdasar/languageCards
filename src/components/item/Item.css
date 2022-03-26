@@ -1,7 +1,7 @@
 .card {
   height: 90px;
   background-color: peachpuff;
-  padding: 10px;
+  padding:15px;
   margin: 10px;
   border-radius: 10px;
   text-align: center;
@@ -22,4 +22,11 @@
 .card-title {
   text-align: center;
   font-size: 1rem;
+}
+.list {
+  text-align: left;
+  font-size: 0.9rem;
+  font-weight: 500;
+  list-style-position: outside;
+  padding-left: 15px;
 }
